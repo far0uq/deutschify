@@ -1,0 +1,22 @@
+.third-quiz-panel-main {
+  background-color: none;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-family: "JetBrains Mono", monospace;
+  position: relative;
+  width: 75%;
+}
+.third-quiz-form {
+  width: 100%;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.third-quiz-form input[type="text"] {
+  margin: 0px 5px;
+  border: none;
+  width: 20%;
+  /* border-left: none;
+   border-right: none; */
+  background-color: #ffffff;
+}

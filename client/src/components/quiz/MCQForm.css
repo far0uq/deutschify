@@ -1,0 +1,21 @@
+.mcq-form-button-container {
+  width: 100%;
+}
+.mcq-form-buttons {
+  width: 48%;
+  border: none;
+  margin: 5px;
+  padding: 12px;
+  border-radius: 5px;
+}
+
+.mcq-form-buttons-hoverable:hover {
+  background-color: black;
+  color: white;
+  transition: background-color 0.4s ease, color 0.2s ease;
+}
+
+.selected-option {
+  background-color: green;
+  color: white;
+}

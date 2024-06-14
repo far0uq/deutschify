@@ -1,0 +1,22 @@
+.forgot-password-form {
+  position: absolute;
+  left: 40%;
+  top: 40%;
+  border: 2px solid rgb(22, 12, 12);
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #171717;
+  z-index: 3;
+}
+
+.total-auth-forms {
+  position: relative;
+  margin: 240px auto auto auto;
+  width: 80%;
+  z-index: 1;
+}
+
+.auth-form {
+  width: 30%;
+  margin: 0px auto auto auto;
+}

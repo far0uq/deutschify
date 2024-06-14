@@ -1,0 +1,31 @@
+.translate-panel {
+  width: 45%;
+}
+
+.translate-font {
+  font-size: 12px;
+  color: white;
+}
+
+.translate-text-area {
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.translate-btn {
+  background-color: #990707;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.translate-btn > img {
+  width: 3%;
+}
+
+.translate-element {
+  background-color: #393333;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+}

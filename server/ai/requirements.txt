@@ -1,0 +1,10 @@
+tiktoken
+langchain_openai
+python-dotenv
+langchain
+sentence-transformers
+transformers
+nltk
+chromadb
+langchain-community
+pypdf

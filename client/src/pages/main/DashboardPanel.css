@@ -1,0 +1,51 @@
+.dashboard-panel h5 {
+  color: #bfbfbf;
+  font-size: 16px;
+}
+
+.dashboard-tile {
+  background-color: #171717;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.dashboard-row:first-child .dashboard-tile {
+  margin-top: 80px;
+  width: 49%;
+}
+
+.dashboard-row:nth-child(2) .dashboard-tile {
+  margin-top: 18px;
+  width: 32%;
+}
+
+.dashboard-tile img {
+  height: 70px;
+}
+
+.dashboard-tile select {
+  background-color: transparent;
+  border: none;
+  color: #fbfbfb;
+  font-size: 14px;
+}
+
+.dashboard-tile p {
+  color: #fbfbfb;
+  font-size: 12px;
+}
+
+.dashboard-tile .profile-header {
+  margin-left: 20px;
+}
+
+.void-section {
+  background-color: #ffffff;
+  height: 240px;
+  border-radius: 10px;
+}
+
+.quiz-btn {
+  width: 100%;
+}

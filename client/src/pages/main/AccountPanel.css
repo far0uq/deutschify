@@ -1,0 +1,56 @@
+.account-panel-container {
+  margin-top: 90px;
+  margin-left: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80vh;
+  width: 100vh;
+  background-color: #171717;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: #bfbfbf;
+}
+
+.sub-account-panel {
+  margin: 15%;
+}
+
+.account-panel-container button {
+  color: black;
+  background-color: #ffffff;
+  border-radius: 7px;
+  padding: 8px 4px;
+  font-size: 12px;
+  border: 0px;
+  width: 100%;
+}
+
+.account-panel-container button:nth-child(1) {
+  background-color: #ff0000;
+}
+
+.account-panel-container button:hover {
+  color: white;
+  background-color: #000000;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.authentication-button {
+  width: 10%;
+}
+
+.account-panel-buttons {
+  margin-top: 10px;
+  border-radius: 7px;
+}
+
+.account-panel-container h5 {
+  padding-top: 25px;
+  font-size: 14px;
+}
+
+.account-panel-container p {
+  font-size: 10px;
+  margin-bottom: 5px;
+}

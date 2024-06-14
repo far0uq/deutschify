@@ -1,0 +1,48 @@
+.parent-test-form {
+  z-index: 3;
+  position: absolute;
+  margin-left: 150px;
+  height: 450px;
+  width: 100vh;
+  background-color: #171717;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.test-panel-arrow {
+  position: absolute;
+  top: 3px;
+  color: white;
+  font-size: 13px;
+}
+
+.test-panel-arrow:hover {
+  color: rgb(115, 255, 0);
+}
+
+.test-panel-next {
+  right: 18px;
+}
+
+.test-panel-prev {
+  left: 18px;
+}
+
+.test-panel-next img,
+.test-panel-prev img {
+  width: 27px;
+}
+
+.test-panel-ques {
+  margin-top: 120px;
+  background-color: #990707;
+  color: white;
+  padding: 32px;
+  margin-bottom: 14px;
+}
+
+.progress-count {
+  color: white;
+  font-size: 13px;
+  margin-top: 20px;
+}

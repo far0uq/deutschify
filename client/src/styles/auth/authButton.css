@@ -1,0 +1,14 @@
+.auth-submit-btn {
+  background-color: #fff06c;
+}
+
+.auth-submit-btn:hover {
+  background-color: #9f8f04;
+  color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.auth-cancel-btn {
+  background-color: #222222;
+  color: white;
+}
